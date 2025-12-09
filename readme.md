@@ -29,7 +29,6 @@
         - 대회 플랫폼이 익숙하지 않은 참가자 분들을 위해 미리 연습 문제를 풀어보고 제출해볼 수 있는 테스트 대회를 진행하고 있습니다.
 - 참가 대상 : 한동대학교 GLS 학부생 및 전산전자공학부 비전공자
 - 대회 진행 방식 : [온라인 (https://judge.walab.info/)](https://judge.walab.info/)
-- 문제 개수 : 9문제 (A ~ I)
 
 ---
 
@@ -268,7 +267,6 @@ All participants must read the following information carefully before the contes
         - A test contest is available for participants who want to familiarize themselves with the platform by solving and submitting practice problems.
 - Eligibility: Handong University GLS undergraduate students and non-majors from the CSE Department
 - Contest Format: Online (https://judge.walab.info/)
-- Number of Problems: 9 problems (A ~ I)
 
 ---
 
